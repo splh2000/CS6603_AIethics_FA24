@@ -1,0 +1,519 @@
+[
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "ent_field_name": "LastUpdateTime",
+        "label": "Update time",
+        "timestamp_value": 1708988533
+      },
+      {
+        "ent_field_name": "AuthorizationStatus",
+        "label": "Authorization status"
+      },
+      {
+        "ent_field_name": "SoundSetting",
+        "label": "Sound setting"
+      },
+      {
+        "ent_field_name": "BadgeSetting",
+        "label": "Badge setting"
+      },
+      {
+        "ent_field_name": "AlertSetting",
+        "label": "Alert setting"
+      },
+      {
+        "ent_field_name": "NotificationCenterSetting",
+        "label": "Notification center setting"
+      },
+      {
+        "ent_field_name": "LockScreenSetting",
+        "label": "Lock screen setting"
+      },
+      {
+        "ent_field_name": "CarPlaySetting",
+        "label": "CarPlay setting"
+      },
+      {
+        "ent_field_name": "AlertStyle",
+        "label": "Alert style setting",
+        "value": "0"
+      }
+    ],
+    "fbid": "8404862336196759",
+    "ent_name": "EntOSPushSetting"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "ent_field_name": "LastUpdateTime",
+        "label": "Update time",
+        "timestamp_value": 1708961820
+      },
+      {
+        "ent_field_name": "AuthorizationStatus",
+        "label": "Authorization status"
+      },
+      {
+        "ent_field_name": "SoundSetting",
+        "label": "Sound setting"
+      },
+      {
+        "ent_field_name": "BadgeSetting",
+        "label": "Badge setting"
+      },
+      {
+        "ent_field_name": "AlertSetting",
+        "label": "Alert setting"
+      },
+      {
+        "ent_field_name": "NotificationCenterSetting",
+        "label": "Notification center setting"
+      },
+      {
+        "ent_field_name": "LockScreenSetting",
+        "label": "Lock screen setting"
+      },
+      {
+        "ent_field_name": "CarPlaySetting",
+        "label": "CarPlay setting"
+      },
+      {
+        "ent_field_name": "AlertStyle",
+        "label": "Alert style setting",
+        "value": "0"
+      }
+    ],
+    "fbid": "8403441123005547",
+    "ent_name": "EntOSPushSetting"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "ent_field_name": "LastUpdateTime",
+        "label": "Update time",
+        "timestamp_value": 1708883435
+      },
+      {
+        "ent_field_name": "AuthorizationStatus",
+        "label": "Authorization status"
+      },
+      {
+        "ent_field_name": "SoundSetting",
+        "label": "Sound setting"
+      },
+      {
+        "ent_field_name": "BadgeSetting",
+        "label": "Badge setting"
+      },
+      {
+        "ent_field_name": "AlertSetting",
+        "label": "Alert setting"
+      },
+      {
+        "ent_field_name": "NotificationCenterSetting",
+        "label": "Notification center setting"
+      },
+      {
+        "ent_field_name": "LockScreenSetting",
+        "label": "Lock screen setting"
+      },
+      {
+        "ent_field_name": "CarPlaySetting",
+        "label": "CarPlay setting"
+      },
+      {
+        "ent_field_name": "AlertStyle",
+        "label": "Alert style setting",
+        "value": "0"
+      }
+    ],
+    "fbid": "8399529800063346",
+    "ent_name": "EntOSPushSetting"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "ent_field_name": "LastUpdateTime",
+        "label": "Update time",
+        "timestamp_value": 1673232884
+      },
+      {
+        "ent_field_name": "AuthorizationStatus",
+        "label": "Authorization status"
+      },
+      {
+        "ent_field_name": "SoundSetting",
+        "label": "Sound setting"
+      },
+      {
+        "ent_field_name": "BadgeSetting",
+        "label": "Badge setting"
+      },
+      {
+        "ent_field_name": "AlertSetting",
+        "label": "Alert setting"
+      },
+      {
+        "ent_field_name": "NotificationCenterSetting",
+        "label": "Notification center setting"
+      },
+      {
+        "ent_field_name": "LockScreenSetting",
+        "label": "Lock screen setting"
+      },
+      {
+        "ent_field_name": "CarPlaySetting",
+        "label": "CarPlay setting"
+      },
+      {
+        "ent_field_name": "AlertStyle",
+        "label": "Alert style setting",
+        "value": "0"
+      }
+    ],
+    "fbid": "6909351285747879",
+    "ent_name": "EntOSPushSetting"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "ent_field_name": "LastUpdateTime",
+        "label": "Update time",
+        "timestamp_value": 1653626503
+      },
+      {
+        "ent_field_name": "AuthorizationStatus",
+        "label": "Authorization status"
+      },
+      {
+        "ent_field_name": "SoundSetting",
+        "label": "Sound setting"
+      },
+      {
+        "ent_field_name": "BadgeSetting",
+        "label": "Badge setting"
+      },
+      {
+        "ent_field_name": "AlertSetting",
+        "label": "Alert setting"
+      },
+      {
+        "ent_field_name": "NotificationCenterSetting",
+        "label": "Notification center setting"
+      },
+      {
+        "ent_field_name": "LockScreenSetting",
+        "label": "Lock screen setting"
+      },
+      {
+        "ent_field_name": "CarPlaySetting",
+        "label": "CarPlay setting"
+      },
+      {
+        "ent_field_name": "AlertStyle",
+        "label": "Alert style setting",
+        "value": "0"
+      }
+    ],
+    "fbid": "6215713065111708",
+    "ent_name": "EntOSPushSetting"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "ent_field_name": "LastUpdateTime",
+        "label": "Update time",
+        "timestamp_value": 1653626473
+      },
+      {
+        "ent_field_name": "AuthorizationStatus",
+        "label": "Authorization status"
+      },
+      {
+        "ent_field_name": "SoundSetting",
+        "label": "Sound setting"
+      },
+      {
+        "ent_field_name": "BadgeSetting",
+        "label": "Badge setting"
+      },
+      {
+        "ent_field_name": "AlertSetting",
+        "label": "Alert setting"
+      },
+      {
+        "ent_field_name": "NotificationCenterSetting",
+        "label": "Notification center setting"
+      },
+      {
+        "ent_field_name": "LockScreenSetting",
+        "label": "Lock screen setting"
+      },
+      {
+        "ent_field_name": "CarPlaySetting",
+        "label": "CarPlay setting"
+      },
+      {
+        "ent_field_name": "AlertStyle",
+        "label": "Alert style setting",
+        "value": "0"
+      }
+    ],
+    "fbid": "6215712241778457",
+    "ent_name": "EntOSPushSetting"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "ent_field_name": "LastUpdateTime",
+        "label": "Update time",
+        "timestamp_value": 1701608315
+      },
+      {
+        "ent_field_name": "AuthorizationStatus",
+        "label": "Authorization status"
+      },
+      {
+        "ent_field_name": "SoundSetting",
+        "label": "Sound setting"
+      },
+      {
+        "ent_field_name": "BadgeSetting",
+        "label": "Badge setting"
+      },
+      {
+        "ent_field_name": "AlertSetting",
+        "label": "Alert setting"
+      },
+      {
+        "ent_field_name": "NotificationCenterSetting",
+        "label": "Notification center setting"
+      },
+      {
+        "ent_field_name": "LockScreenSetting",
+        "label": "Lock screen setting"
+      },
+      {
+        "ent_field_name": "CarPlaySetting",
+        "label": "CarPlay setting"
+      },
+      {
+        "ent_field_name": "AlertStyle",
+        "label": "Alert style setting",
+        "value": "0"
+      }
+    ],
+    "fbid": "5104639462885746",
+    "ent_name": "EntOSPushSetting"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "ent_field_name": "LastUpdateTime",
+        "label": "Update time",
+        "timestamp_value": 1653321450
+      },
+      {
+        "ent_field_name": "AuthorizationStatus",
+        "label": "Authorization status"
+      },
+      {
+        "ent_field_name": "SoundSetting",
+        "label": "Sound setting"
+      },
+      {
+        "ent_field_name": "BadgeSetting",
+        "label": "Badge setting"
+      },
+      {
+        "ent_field_name": "AlertSetting",
+        "label": "Alert setting"
+      },
+      {
+        "ent_field_name": "NotificationCenterSetting",
+        "label": "Notification center setting"
+      },
+      {
+        "ent_field_name": "LockScreenSetting",
+        "label": "Lock screen setting"
+      },
+      {
+        "ent_field_name": "CarPlaySetting",
+        "label": "CarPlay setting"
+      },
+      {
+        "ent_field_name": "AlertStyle",
+        "label": "Alert style setting",
+        "value": "0"
+      }
+    ],
+    "fbid": "5051200571562969",
+    "ent_name": "EntOSPushSetting"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "ent_field_name": "LastUpdateTime",
+        "label": "Update time",
+        "timestamp_value": 1578880319
+      },
+      {
+        "ent_field_name": "AuthorizationStatus",
+        "label": "Authorization status"
+      },
+      {
+        "ent_field_name": "SoundSetting",
+        "label": "Sound setting"
+      },
+      {
+        "ent_field_name": "BadgeSetting",
+        "label": "Badge setting"
+      },
+      {
+        "ent_field_name": "AlertSetting",
+        "label": "Alert setting"
+      },
+      {
+        "ent_field_name": "NotificationCenterSetting",
+        "label": "Notification center setting"
+      },
+      {
+        "ent_field_name": "LockScreenSetting",
+        "label": "Lock screen setting"
+      },
+      {
+        "ent_field_name": "CarPlaySetting",
+        "label": "CarPlay setting"
+      },
+      {
+        "ent_field_name": "AlertStyle",
+        "label": "Alert style setting",
+        "value": "0"
+      }
+    ],
+    "fbid": "3507561572593551",
+    "ent_name": "EntOSPushSetting"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "ent_field_name": "LastUpdateTime",
+        "label": "Update time",
+        "timestamp_value": 1653140960
+      },
+      {
+        "ent_field_name": "AuthorizationStatus",
+        "label": "Authorization status"
+      },
+      {
+        "ent_field_name": "SoundSetting",
+        "label": "Sound setting"
+      },
+      {
+        "ent_field_name": "BadgeSetting",
+        "label": "Badge setting"
+      },
+      {
+        "ent_field_name": "AlertSetting",
+        "label": "Alert setting"
+      },
+      {
+        "ent_field_name": "NotificationCenterSetting",
+        "label": "Notification center setting"
+      },
+      {
+        "ent_field_name": "LockScreenSetting",
+        "label": "Lock screen setting"
+      },
+      {
+        "ent_field_name": "CarPlaySetting",
+        "label": "CarPlay setting"
+      },
+      {
+        "ent_field_name": "AlertStyle",
+        "label": "Alert style setting",
+        "value": "0"
+      }
+    ],
+    "fbid": "3050337371649309",
+    "ent_name": "EntOSPushSetting"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "ent_field_name": "LastUpdateTime",
+        "label": "Update time",
+        "timestamp_value": 1653170268
+      },
+      {
+        "ent_field_name": "AuthorizationStatus",
+        "label": "Authorization status"
+      },
+      {
+        "ent_field_name": "SoundSetting",
+        "label": "Sound setting"
+      },
+      {
+        "ent_field_name": "BadgeSetting",
+        "label": "Badge setting"
+      },
+      {
+        "ent_field_name": "AlertSetting",
+        "label": "Alert setting"
+      },
+      {
+        "ent_field_name": "NotificationCenterSetting",
+        "label": "Notification center setting"
+      },
+      {
+        "ent_field_name": "LockScreenSetting",
+        "label": "Lock screen setting"
+      },
+      {
+        "ent_field_name": "CarPlaySetting",
+        "label": "CarPlay setting"
+      },
+      {
+        "ent_field_name": "AlertStyle",
+        "label": "Alert style setting",
+        "value": "0"
+      }
+    ],
+    "fbid": "3049695105046869",
+    "ent_name": "EntOSPushSetting"
+  }
+]

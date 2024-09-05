@@ -1,0 +1,14 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "ent_field_name": "TotalVpvs",
+      "label": "Story views in past 7 days",
+      "value": "1519"
+    }
+  ],
+  "fbid": "100000192289503",
+  "ent_name": "EntBrandSafetyFeedViewerInventoryScore"
+}

@@ -1,0 +1,20 @@
+{
+  "timestamp": 1718744701,
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "ent_field_name": "UpdateTime",
+      "label": "Updated time",
+      "timestamp_value": 1718744701
+    },
+    {
+      "ent_field_name": "ConsentStatus",
+      "label": "Consent status",
+      "value": "Objected"
+    }
+  ],
+  "fbid": "755365703186297",
+  "ent_name": "ADSPRIVACYEntContextualAdsConsentAnchor"
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "ent_field_name": "AdClickStartThreadTimestamps",
+        "label": "Creation times",
+        "vec": [
+          {
+            "ent_field_name": "",
+            "timestamp_value": 1686239570
+          }
+        ]
+      },
+      {
+        "ent_field_name": "ClickToMessageAdProductType",
+        "label": "Product featured in the ad"
+      },
+      {
+        "ent_field_name": "IsPrivacyRestricted",
+        "label": "Is the thread privacy restricted?",
+        "value": "False"
+      }
+    ],
+    "fbid": "6277116002383173",
+    "ent_name": "EntClickToMessageAdThreadStart"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "ent_field_name": "AdClickStartThreadTimestamps",
+        "label": "Creation times",
+        "vec": [
+          {
+            "ent_field_name": "",
+            "timestamp_value": 1684376959
+          }
+        ]
+      },
+      {
+        "ent_field_name": "ClickToMessageAdProductType",
+        "label": "Product featured in the ad"
+      },
+      {
+        "ent_field_name": "IsPrivacyRestricted",
+        "label": "Is the thread privacy restricted?",
+        "value": "False"
+      }
+    ],
+    "fbid": "9197324713671896",
+    "ent_name": "EntClickToMessageAdThreadStart"
+  }
+]

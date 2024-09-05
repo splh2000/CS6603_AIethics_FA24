@@ -1,0 +1,25 @@
+{
+  "timestamp": 1717816019,
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "ent_field_name": "UpdatedTime",
+      "label": "Updated time",
+      "timestamp_value": 1717816019
+    },
+    {
+      "ent_field_name": "Device",
+      "label": "Device ID",
+      "vec": [
+        {
+          "ent_field_name": "Device",
+          "value": "Mcpj********************"
+        }
+      ]
+    }
+  ],
+  "fbid": "7951610718235005",
+  "ent_name": "EntBrowserPushInstallation"
+}

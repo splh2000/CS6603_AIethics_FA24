@@ -1,0 +1,31 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "ent_field_name": "StoryHighlightAudienceModeRaw",
+      "label": "Audience settings",
+      "value": "Public"
+    },
+    {
+      "ent_field_name": "HasEverCreatedHighlight",
+      "label": "Story highlight creation",
+      "value": "You've created story highlights"
+    },
+    {
+      "ent_field_name": "HighlightIDOrder",
+      "label": "Stories added",
+      "media": [
+        
+      ]
+    },
+    {
+      "ent_field_name": "PrivacyModeAudienceTime",
+      "label": "The last time you made changes to these settings",
+      "timestamp_value": 1722074056
+    }
+  ],
+  "fbid": "3396011420415234",
+  "ent_name": "EntStoryHighlightPreferences"
+}

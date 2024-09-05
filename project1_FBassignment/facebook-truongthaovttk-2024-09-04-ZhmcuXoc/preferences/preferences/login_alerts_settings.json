@@ -1,0 +1,27 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "ent_field_name": "JewelEnabled",
+      "label": "Notifications enabled",
+      "value": "True"
+    },
+    {
+      "ent_field_name": "JewelEnableReason",
+      "label": "Notification enabled reason"
+    },
+    {
+      "ent_field_name": "EmailEnableReason",
+      "label": "Email enabled reason"
+    },
+    {
+      "ent_field_name": "EnabledEmailsAddressString",
+      "label": "Enabled email address",
+      "value": "truongthao_vttk@yahoo.com.vn"
+    }
+  ],
+  "fbid": "3333067146709662",
+  "ent_name": "EntLoginAlerts"
+}

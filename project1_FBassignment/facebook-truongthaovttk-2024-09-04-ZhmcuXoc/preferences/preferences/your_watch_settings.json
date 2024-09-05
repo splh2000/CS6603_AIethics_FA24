@@ -1,0 +1,26 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "ent_field_name": "WatchlistBizPagesOptedOut",
+      "label": "Have you opted opt out of videos from business pages",
+      "value": "True"
+    },
+    {
+      "ent_field_name": "WatchlistAllPagesOptedOut",
+      "label": "Have you opted out of videos from all the pages",
+      "value": "False"
+    },
+    {
+      "ent_field_name": "PreferredWatchLocales",
+      "label": "Preferred languages",
+      "vec": [
+        
+      ]
+    }
+  ],
+  "fbid": "2608925345790516",
+  "ent_name": "EntWatchSettings"
+}

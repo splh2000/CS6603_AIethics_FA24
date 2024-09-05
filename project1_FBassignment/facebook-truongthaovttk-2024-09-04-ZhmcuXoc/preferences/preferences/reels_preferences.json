@@ -1,0 +1,19 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "ent_field_name": "CanViewerReshareToStory",
+      "label": "You can reshare a reel to a story",
+      "value": "True"
+    },
+    {
+      "ent_field_name": "CanPublicRemixViewersReels",
+      "label": "Your reels can be remixed by the public",
+      "value": "False"
+    }
+  ],
+  "fbid": "6636453496370994",
+  "ent_name": "EntFBShortsPreferences"
+}

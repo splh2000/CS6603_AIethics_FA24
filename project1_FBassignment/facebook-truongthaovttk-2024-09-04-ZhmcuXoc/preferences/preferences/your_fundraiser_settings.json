@@ -1,0 +1,154 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "ent_field_name": "NotificationsSent",
+      "label": "Notifications sent",
+      "vec": [
+        {
+          "ent_field_name": "",
+          "dict": [
+            {
+              "ent_field_name": "NotificationsSentNotificationsSent.value.notif_type",
+              "label": "notif_type",
+              "value": "crisis_status"
+            },
+            {
+              "ent_field_name": "NotificationsSentNotificationsSent.value.timestamp",
+              "label": "timestamp",
+              "timestamp_value": 1715956784
+            }
+          ]
+        },
+        {
+          "ent_field_name": "",
+          "dict": [
+            {
+              "ent_field_name": "NotificationsSentNotificationsSent.value.notif_type",
+              "label": "notif_type",
+              "value": "crisis_status"
+            },
+            {
+              "ent_field_name": "NotificationsSentNotificationsSent.value.timestamp",
+              "label": "timestamp",
+              "timestamp_value": 1715586743
+            }
+          ]
+        },
+        {
+          "ent_field_name": "",
+          "dict": [
+            {
+              "ent_field_name": "NotificationsSentNotificationsSent.value.notif_type",
+              "label": "notif_type",
+              "value": "crisis_status"
+            },
+            {
+              "ent_field_name": "NotificationsSentNotificationsSent.value.timestamp",
+              "label": "timestamp",
+              "timestamp_value": 1668168007
+            }
+          ]
+        },
+        {
+          "ent_field_name": "",
+          "dict": [
+            {
+              "ent_field_name": "NotificationsSentNotificationsSent.value.notif_type",
+              "label": "notif_type",
+              "value": "user_fundraiser_friend_birthday_fundraiser_last_chance"
+            },
+            {
+              "ent_field_name": "NotificationsSentNotificationsSent.value.timestamp",
+              "label": "timestamp",
+              "timestamp_value": 1572660001
+            }
+          ]
+        },
+        {
+          "ent_field_name": "",
+          "dict": [
+            {
+              "ent_field_name": "NotificationsSentNotificationsSent.value.notif_type",
+              "label": "notif_type",
+              "value": "user_fundraiser_friend_birthday_fundraiser"
+            },
+            {
+              "ent_field_name": "NotificationsSentNotificationsSent.value.timestamp",
+              "label": "timestamp",
+              "timestamp_value": 1572616808
+            }
+          ]
+        },
+        {
+          "ent_field_name": "",
+          "dict": [
+            {
+              "ent_field_name": "NotificationsSentNotificationsSent.value.notif_type",
+              "label": "notif_type",
+              "value": "user_fundraiser_creation_top_friends"
+            },
+            {
+              "ent_field_name": "NotificationsSentNotificationsSent.value.timestamp",
+              "label": "timestamp",
+              "timestamp_value": 1572015586
+            }
+          ]
+        },
+        {
+          "ent_field_name": "",
+          "dict": [
+            {
+              "ent_field_name": "NotificationsSentNotificationsSent.value.notif_type",
+              "label": "notif_type",
+              "value": "user_fundraiser_friend_birthday_fundraiser_last_chance"
+            },
+            {
+              "ent_field_name": "NotificationsSentNotificationsSent.value.timestamp",
+              "label": "timestamp",
+              "timestamp_value": 1546135203
+            }
+          ]
+        },
+        {
+          "ent_field_name": "",
+          "dict": [
+            {
+              "ent_field_name": "NotificationsSentNotificationsSent.value.notif_type",
+              "label": "notif_type",
+              "value": "user_fundraiser_friend_birthday_fundraiser"
+            },
+            {
+              "ent_field_name": "NotificationsSentNotificationsSent.value.timestamp",
+              "label": "timestamp",
+              "timestamp_value": 1546092871
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ent_field_name": "NotificationsSettingsLevel",
+      "label": "Notifications level"
+    },
+    {
+      "ent_field_name": "LastTimeBirthdayGiftUsed",
+      "label": "Time of last birthday gift",
+      "timestamp_value": 0
+    },
+    {
+      "ent_field_name": "LastTimeCovaxGiftUsed",
+      "label": "Time of last COVID vaccination gift",
+      "timestamp_value": 0
+    },
+    {
+      "ent_field_name": "LastTimeJuneteenthGiftUsed",
+      "label": "Time of last Juneteenth gift",
+      "timestamp_value": 0
+    }
+  ],
+  "fbid": "2397940033555716",
+  "ent_name": "EntFundraiserProductSettings"
+}
